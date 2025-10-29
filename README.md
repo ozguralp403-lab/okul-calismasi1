@@ -1,1 +1,378 @@
-# okul-calismasi1
+# okul-calismasi1[index5.html](https://github.com/user-attachments/files/23216913/index5.html)
+<html>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Tasarım</title>
+    
+  <meta charset="UTF-8">
+  <meta name="description" content="Bu sayfa web hakkında bilgi verir">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+
+<!--
+    <h1>Ölmeden Önce İzlenmesi Gerekenler</h1>
+    
+    <p><b>Sevgilimle</b> keşfettiğimiz bazı dizi ve filmler hakkında bilgi vermek istedim bunları aşağıda tek tek başlık olarak listeledim ve açıklama,konu içerikleriyle birlikte sizinde hoşunuza gidebilecek tarzda diziler olduğunu düşünüyorsanız başlık olarak araştırma yapabilirsiniz.</p>
+
+   <h3>Ben Leman</h3>
+
+   <p>LEMAN DİZİ KONUSU NEDİR? Geçmişin sırlarıyla hayatları kesişen dört kadın ve bir adam; Leman, Şahika, Mine, Suzi ve Demir. Dostlukların ve aşkların sınandığı, sırların gün yüzüne çıktığı ve cesur yüzleşmelerin yaşandığı bu hikâye, huzurlu görünen ama derinlerde fırtınalar koparan atmosferiyle izleyiciyi içine çekecek.</p>
+
+  <h3>The Rookie</h3>
+  <p>Küçük bir kasabada yaşayan kırk yaşındaki <mark>John Nolan’ın </mark> en büyük hayali polis memuru olmaktır. Yaşadığı ölümcül kazanın ardından hayallerinin peşinden koşan John, yaşadığı kasabayı terk ederek Los Angeles’a gider. Los Angeles Polis Departmanı’nda göreve başlayan John, çalıştığı birimde orta yaş krizi de dahil birçok farklı sorunla boğuşmak zorunda kalır.</p>
+  <h3>Manifest</h3>
+
+  <p>7 Nisan 2013'te Jamaika'dan New York'a seyahat ederken , Montego Air 828 sefer sayılı uçak kısa bir süre şiddetli türbülans yaşar. New York, Newburgh'daki Stewart Uluslararası Havalimanı'na indiklerinde , uçağın 191 [ 1 ] yolcusu ve mürettebatı, NSA müdür yardımcısı Robert "Bobby" Vance'den havada beş buçuk yıldan fazla zaman geçtiğini ve bu süre zarfında öldüklerinin varsayıldığını öğrenir. Topluma yeniden katıldıklarında, yolcular hayatlarının ve sevdiklerinin eskisi gibi olmadığı gerçeğiyle yüzleşmek zorunda kalırken, henüz gerçekleşmemiş olayları temsil eden, "çağrılar" olarak adlandırılan yol gösterici sesler ve vizyonlar da duymaya başlarlar.</p>
+  <h3>Ölmek İçin On Üç Sebep</h3>
+
+  <p>Ölmek İçin On Üç Sebep, 2007 yılında Jay Asher tarafından yazılan genç yetişkin romandır. İhanet ve zorbalığa maruz kalan ve bunun sonucunda intihar eden genç bir lise öğrencisinin hikâyesini ele almaktadır. Ölümden iki hafta sonra bir arkadaşına yolladığı sesli bir günlükte intiharının on üç sebebini açıklamaktadır.
+
+Ölmek İçin On Üç Sebep, birkaç genç yetişkin edebiyat derneğinden takdir ve ödüller alırken karton kapaklı basımı, Temmuz 2011'de New York Times'ın en çok satanlar listesinde bir numaraya yükseldi. Kitaba dayanan bir senaryo, 31 Mart 2017'de Netflix'te aynı adla bir web dizisine uyarlandı. Senaryoda isim değişiklikleri, konu ögeleri ve karakter kişilikleri dahil olmak üzere kitaptan birkaç sapma mevcuttur.</p>
+  <h3>Rüzgara Bırak</h3>
+
+  <p>Yazman Şirketler Grubu’nun hırslı CEO’su Aslı Mansoy ve Çeşme’de yaşayan, şirketin diğer veliahdı Ege Yazıcı’nın yolu, şirketin geleceği için önemli bir otel projesi nedeniyle kesişir. Ege’nin sörf okulunun bulunduğu koye otel yapılacaktır ve Aslı bu amaçla Ege’yi ikna etmeye çalışır. Ancak Ege’yi ikna etmek düşündüğünden de zorludur. Bu süreçte biri şehirli diğeri Çeşmeli olan birbirinden farklı hayatlara sahip Aslı ve Ege’nin benzerliklerini ortaya çıkarır. Peki Aslı ve Ege, şirketi mi sörf okulunu mu yoksa birbirlerini mi seçecektir.</p>
+   <img src="benleman.jpg" alt="">
+   <img src="sezon-8.jpg" alt="">
+   <img src="ölmek.jpg" alt="">
+   <img src="Rüzgara Bırak.jpg" alt="">
+  
+
+  <table>
+    <tr>
+      <th>Marka</th>
+      <th>Model</th>
+      <th>Fiyat</th>
+    </tr>
+    <tr>
+      <td>Apple</td>
+      <td>İphone 15</td>
+      <td>60000</td>
+    </tr>
+    <tr>
+      <td>Apple</td>
+      <td>İphone 16</td>
+      <td>80000</td>
+    </tr>
+    <tr>
+      <td>Apple</td>
+      <td>İphone 17</td>
+      <td>100000</td>
+    </tr>
+
+    <ul>
+      <li>AnaSayfa</li>
+      <li>Hakkımızda</li>
+      <li>İletişim</li>
+    </ul>
+  </table>
+</head>
+
+<body>
+    
+</body>
+</html>
+
+</html>
+
+
+
+
+<table>
+  <form>
+    <form action="formSonuc.php" method="post">
+      
+      <script>
+  function kontrolEt(event) {
+    const ad = document.getElementById("ad").value;
+    if (ad === "") {
+      alert("Lütfen adınızı giriniz!");
+      event.preventDefault(); // formun gönderilmesini engeller
+    }
+  }
+</script>
+
+<form onsubmit="kontrolEt(event)">
+  
+
+
+
+
+
+    <style>
+  table {
+    margin: 30px auto;
+    border-collapse: collapse;
+  }
+
+  td {
+    padding: 10px;
+  }
+
+  input, select, textarea {
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 200px;
+  }
+
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+</style>
+    
+    
+
+
+
+
+    <tr>
+      <td><label>Adınız:</label></td>
+      <td></td>
+      <td><input type="text" id="deneme" placeholder="Adınız..."></td>
+    </tr>
+    <tr>
+      <td><label>SoyAdınız:</label></td>
+      <td></td>
+      <td><input type="text"></td>
+    </tr>
+    <tr>
+      <td><label>Şifre Giriniz:</label></td>
+      <td></td>
+      <td><input type="password"></td>
+    </tr>
+    <tr>
+      <td><label>Doğum Tarihiniz:</label></td>
+      <td></td>
+      <td><input type="date"></td>
+    </tr>
+    <tr>
+      <td><label>Dosya Seçiniz:</label></td>
+      <td></td>
+      <td><input type="file"></td>
+    </tr>
+    <tr>
+      <td><label>Aldığınız Dersler</label></td>
+      <td></td>
+      <td><input type="checkbox">Web
+    <input type="checkbox">Veri Tabanı
+    <input type="checkbox">Donanım
+    <input type="checkbox">Java</td>
+    </tr>
+    <tr>
+      <td> <label>Sınıfınız:</label></td>
+      <td></td>
+      <td><input type="radio" name="deneme">1.Sınıf
+    <input type="radio" name="deneme">2.Sınıf</td>
+    </tr>
+    <tr>
+      <td><label>Şehir Seçiniz:</label></td>
+      <td></td>
+      <td><select>
+      <option disabled selected></option>
+      <option>Muğla</option>
+      <option>Antalya</option>
+      <option>Bodrum</option>
+      <option>Çeşme</option>
+    </select></td>
+    </tr>
+    <tr>
+      <td><label>Mesajınızı Giriniz:</label></td>
+      <td></td>
+      <td><textarea></textarea></td>
+    </tr>
+    <tr>
+      <td><input type="submit" value="Veri Gönder"></td>
+    </tr>
+  
+
+
+
+  </form>
+</table>
+-->
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Form + JS Doğrulama</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+  <div class="container mt-5">
+    <div class="card shadow-lg p-4">
+      <h3 class="text-center mb-4 text-primary">Bilgi Formu</h3>
+
+      <form id="bilgiFormu" novalidate>
+        <div class="row mb-3">
+          <label for="ad" class="col-sm-3 col-form-label">Adınız:</label>
+          <div class="col-sm-9">
+            <input type="text" class="form-control" id="ad" placeholder="Adınızı giriniz" required>
+            <div class="invalid-feedback">Lütfen adınızı giriniz.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="soyad" class="col-sm-3 col-form-label">Soyadınız:</label>
+          <div class="col-sm-9">
+            <input type="text" class="form-control" id="soyad" placeholder="Soyadınızı giriniz" required>
+            <div class="invalid-feedback">Lütfen soyadınızı giriniz.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="sifre" class="col-sm-3 col-form-label">Şifre:</label>
+          <div class="col-sm-9">
+            <input type="password" class="form-control" id="sifre" placeholder="Şifrenizi giriniz" minlength="6" required>
+            <div class="invalid-feedback">Şifre en az 6 karakter olmalıdır.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="dogum" class="col-sm-3 col-form-label">Doğum Tarihiniz:</label>
+          <div class="col-sm-9">
+            <input type="date" class="form-control" id="dogum" required>
+            <div class="invalid-feedback">Lütfen doğum tarihinizi seçiniz.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="dosya" class="col-sm-3 col-form-label">Dosya Seçiniz:</label>
+          <div class="col-sm-9">
+            <input type="file" class="form-control" id="dosya" required>
+            <div class="invalid-feedback">Lütfen bir dosya seçiniz.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label class="col-sm-3 col-form-label">Aldığınız Dersler:</label>
+          <div class="col-sm-9">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="web">
+              <label class="form-check-label" for="web">Web</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="veritabani">
+              <label class="form-check-label" for="veritabani">Veri Tabanı</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="donanim">
+              <label class="form-check-label" for="donanim">Donanım</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="checkbox" id="java">
+              <label class="form-check-label" for="java">Java</label>
+            </div>
+            <div class="text-danger small" id="dersUyarisi"></div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label class="col-sm-3 col-form-label">Sınıfınız:</label>
+          <div class="col-sm-9">
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="sinif" id="sinif1">
+              <label class="form-check-label" for="sinif1">1. Sınıf</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" type="radio" name="sinif" id="sinif2">
+              <label class="form-check-label" for="sinif2">2. Sınıf</label>
+            </div>
+            <div class="text-danger small" id="sinifUyarisi"></div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="sehir" class="col-sm-3 col-form-label">Şehir Seçiniz:</label>
+          <div class="col-sm-9">
+            <select class="form-select" id="sehir" required>
+              <option selected disabled value="">Seçiniz...</option>
+              <option>Muğla</option>
+              <option>Antalya</option>
+              <option>Bodrum</option>
+              <option>Çeşme</option>
+            </select>
+            <div class="invalid-feedback">Lütfen bir şehir seçiniz.</div>
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <label for="mesaj" class="col-sm-3 col-form-label">Mesajınız:</label>
+          <div class="col-sm-9">
+            <textarea class="form-control" id="mesaj" rows="3" placeholder="Mesajınızı yazınız..." required></textarea>
+            <div class="invalid-feedback">Lütfen mesajınızı yazınız.</div>
+          </div>
+        </div>
+
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary px-4">Veri Gönder</button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- 🔹 JavaScript Doğrulama Kodu -->
+  <script>
+    const form = document.getElementById("bilgiFormu");
+
+    form.addEventListener("submit", function(event) {
+      event.preventDefault(); // sayfanın yenilenmesini engeller
+      event.stopPropagation();
+
+      // Bootstrap'in yerleşik doğrulama sistemi
+      if (!form.checkValidity()) {
+        form.classList.add("was-validated");
+      } else {
+        // Ek özel kontroller
+        const dersler = document.querySelectorAll('input[type="checkbox"]:checked');
+        const siniflar = document.querySelectorAll('input[name="sinif"]:checked');
+        const dersUyarisi = document.getElementById("dersUyarisi");
+        const sinifUyarisi = document.getElementById("sinifUyarisi");
+
+        let hata = false;
+        dersUyarisi.textContent = "";
+        sinifUyarisi.textContent = "";
+
+        if (dersler.length === 0) {
+          dersUyarisi.textContent = "Lütfen en az bir ders seçiniz.";
+          hata = true;
+        }
+
+        if (siniflar.length === 0) {
+          sinifUyarisi.textContent = "Lütfen sınıfınızı seçiniz.";
+          hata = true;
+        }
+
+        if (!hata) {
+          alert("Form başarıyla gönderildi!");
+          form.reset();
+          form.classList.remove("was-validated");
+        }
+      }
+    });
+  </script>
+
+</body>
+</html>
